@@ -1,0 +1,7 @@
+streamlit
+numpy
+Pillow
+opencv-python-headless # Versi OpenCV tanpa GUI, lebih ringan
+streamlit-webrtc      # Ini akan menginstal versi terbaru yang kompatibel dengan Python Anda
+pandas                # Untuk tampilan data tabel di riwayat
+ultralytics           # Untuk menggunakan model YOLO Anda
