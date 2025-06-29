@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+*.bak
+temp_images/
+melon_detector.db
